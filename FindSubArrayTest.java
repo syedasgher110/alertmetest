@@ -12,7 +12,7 @@ import org.junit.Test;
 
 /**
  *
- * @author syedshahzad
+ * @author Syed
  */
 
 public class FindSubArrayTest extends TestCase{
